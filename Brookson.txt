@@ -1,5 +1,6 @@
 Hello 
 Welcome to my world
+git clone followed by the repo address
 git add .
 git commit -m "Welcome"
 git push
